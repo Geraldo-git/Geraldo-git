@@ -10,7 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldo-git&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-Oi, eu sou Geraldo, apaixonado por tecnologia e programação. Estou buscando uma nova oportunidade no mercado de desenvolvimento.
 
 # Tecnologias e ferramentas que eu mais utilizo:
 
