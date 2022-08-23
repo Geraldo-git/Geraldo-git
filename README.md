@@ -5,7 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=social-square&logo=Gmail&logoColor=white&link=mailto:geraldo.crispim@gmail.com)](mailto:geraldo.crispim@gmail.com)
 
 <div>
-  <a href="https://github.com/aphenrique">
+  <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geraldo-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldo-git&layout=compact&langs_count=8&theme=dracula"/>
 </div>
